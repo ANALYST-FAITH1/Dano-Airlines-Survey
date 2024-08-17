@@ -9,7 +9,7 @@ This project is an analysis for Dano Airlines, a Uk-based airline headquartered 
 - Applied filters
 - Created a conditional column for Age groups
 
-![](DAS_COLUMN.png)
+![](DAS_Column.png)
 
 ## Problem Statement
 
